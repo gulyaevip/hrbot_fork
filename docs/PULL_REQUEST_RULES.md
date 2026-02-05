@@ -54,9 +54,9 @@ test: тесты на новую стратегию RandomChoice
 
 **Как проверить**
 
-```pip install -r requirements.txt```
-```pytest```
-```python main.py```
+`pip install -r requirements.txt`
+`pytest`
+`python main.py`
 Пройти 10–15 вопросов → убедиться, что ответы выбираются по выбранной стратегии
 
 Связанные задачи
