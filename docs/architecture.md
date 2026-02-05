@@ -31,7 +31,7 @@ project-root/
 ├── docs/
 │   └── architecture.md
 └── README.md
-
+```
 # Архитектура проекта
 
 ## Описание структуры каталогов
