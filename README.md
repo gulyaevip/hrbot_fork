@@ -25,7 +25,7 @@
 ## Архитектура проекта
 Подробная архитектура: [docs/architecture.md](docs/architecture.md)
 
-
+---
 
 
 
@@ -35,6 +35,11 @@
 - Изменения принимаются только через **Pull Request**
 - Каждый Pull Request проходит review
 - Прямые коммиты в основную ветку запрещены
+
+---
+## Оформление **Pull Request**
+Подробная архитектура: [docs/architecture.md](docs/PULL_REQUEST_RULES.md)
+
 
 ---
 
